@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Welcome to TEN ZOMBIE game</title>
+    <script type="module" src="src/real.js" defer></script>
+    <style type="text/css">
+      @import url("reset.css");
+    </style>
+    <link rel="shortcut icon" href="/img/favicon.ico" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.1/css/all.css"
+      integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp"
+      crossorigin="anonymous"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header id="header">
+      <img src="img/header-logo.png" />
+    </header>
+
+    <section id="game">
+      <button class="game__button">
+        <img src="img/start.png" class="start" />
+      </button>
+      <span class="game__timer">00:00</span>
+      <span class="game__score">Remainder ㅡ> 10</span>
+      <section class="game__field"></section>
+    </section>
+
+    <section class="pop-up pop-up--hide">
+      <button class="pop-up__refresh">
+        <i class="fas fa-redo"></i>
+      </button>
+      <span class="pop-up__message"></span>
+    </section>
+  </body>
+</html>
