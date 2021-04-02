@@ -3,7 +3,7 @@
 **Javascript Mini Game**<br/>
 `#Javascript`
 
-👁 [URL 바로가기](https://oriharaa.github.io/Re-upload_JS_mini_zombieGame/)
+👁 [URL 바로가기](https://cherryc0ck.github.io/Re-upload_JS_mini_zombieGame/)
 <br/>
 <br/>
 
@@ -11,7 +11,8 @@
 
 1. [Project Purpose](#Project-Purpose)
 2. [Development Stack](#Development-Stack)
-3. [How to play](#How-to-play)
+3. [Project View](#Project-View)
+4. [How to play](#How-to-play)
 
 <br/>
 <br/>
@@ -33,6 +34,12 @@
 <br/>
 <br/>
 <br/>
+
+### Project View
+
+<br/>
+
+![zomie-view](https://user-images.githubusercontent.com/60921094/113427049-549e1a80-940f-11eb-8e7f-21eec270c1a2.gif)
 
 ### How to play
 
